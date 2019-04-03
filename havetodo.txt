@@ -1,0 +1,8 @@
+dictionary >>> b tree
+postings list >>> skip list
+pydoc
+stop_word
+steemr lemmatizer >>> more on word process
+positional index
+query optimizing >>> parse tree ? clojure
+document frequency

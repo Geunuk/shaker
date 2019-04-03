@@ -1,2 +1,5 @@
 *.swp
 *.html
+__pycache__
+*.pkl
+test.py
